@@ -1,6 +1,6 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Sama! <br/><a href="https://github.com/SamaKhatoon24">Cybersecurity Enthusiast</a>, <a href="https://www.linkedin.com/in/sama242/">Technical Support</a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 My Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
