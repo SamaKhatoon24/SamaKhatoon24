@@ -5,7 +5,7 @@
 - <b>Azure-based SOC Lab with Microsoft Sentinel</b>
   - [Check out!](https://github.com/SamaKhatoon24/Azure-based-SOC-Lab)
 - <b>SOC-Automation-Project-How-To-Use-AI-in-Your-SOC-Workflow</b>
-  - [Check out!]()</b></i>
+  - [Check out!](https://github.com/SamaKhatoon24/AI-SOC-Automation-Project-How-To-Use-AI-in-Your-SOC-Workflow)</b></i>
 - <b>Dynamic Malware Analysis</b>
   - [Check Out!](https://github.com/SamaKhatoon24/Dynamic-malware-Analysis)
 
